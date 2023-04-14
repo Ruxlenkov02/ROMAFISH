@@ -1,0 +1,12 @@
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\bin\Debug\ООО РЫБОЛОВ.exe.config
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\bin\Debug\ООО РЫБОЛОВ.exe
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\bin\Debug\ООО РЫБОЛОВ.pdb
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО РЫБОЛОВ.csproj.AssemblyReference.cache
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО РЫБОЛОВ.csproj.SuggestedBindingRedirects.cache
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО_РЫБОЛОВ.Form1.resources
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО_РЫБОЛОВ.Form2.resources
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО_РЫБОЛОВ.Properties.Resources.resources
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО РЫБОЛОВ.csproj.GenerateResource.cache
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО РЫБОЛОВ.csproj.CoreCompileInputs.cache
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО РЫБОЛОВ.exe
+A:\visual rabot\ООО РЫБОЛОВ\ООО РЫБОЛОВ\obj\Debug\ООО РЫБОЛОВ.pdb
